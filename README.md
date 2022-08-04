@@ -12,8 +12,10 @@ git clone https://github.com/zawa1120/python3-notebook.git
 docker-compose up --build
 ```
 
-3. access to localhost <br>
-http://localhost:8888
+3. access to localhost
+```
+open http://localhost:8888
+```
 
 4. After the first
 ```
